@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.deps.json
+/Users/joseguerrero/Projects/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.runtimeconfig.json
+/Users/joseguerrero/Projects/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.dll
+/Users/joseguerrero/Projects/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.pdb
+/Users/joseguerrero/Projects/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.AssemblyInfo.cs
+/Users/joseguerrero/Projects/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.dll
+/Users/joseguerrero/Projects/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.pdb
